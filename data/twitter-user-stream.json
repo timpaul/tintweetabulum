@@ -1,0 +1,586 @@
+{
+  "created_at": "Mon Jan 08 02:56:50 +0000 2018",
+  "id": 950199589902024700,
+  "id_str": "950199589902024705",
+  "text": "RT @LeeRourke: @serpentstail @FitzcarraldoEds @commapress @andothertweets @GrantaBooks @Carcanet @Influxpress @4thEstateBooks @Ofmooseandme…",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 15638216,
+    "id_str": "15638216",
+    "name": "Jennifer Hodgson",
+    "screen_name": "jenniferhodgson",
+    "location": "London",
+    "url": "http://www.jenniferhodgson.co.uk",
+    "description": "Writer. Gorgeous larynx. Edited Ann Quin's 'The Unmapped Country'. Formerly: UK Editor at Dalkey Archive Press.",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1227,
+    "friends_count": 2244,
+    "listed_count": 31,
+    "favourites_count": 6220,
+    "statuses_count": 7910,
+    "created_at": "Mon Jul 28 21:52:42 +0000 2008",
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "ED3D11",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/533129280/reginald_perrin.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/533129280/reginald_perrin.jpg",
+    "profile_background_tile": true,
+    "profile_link_color": "EB09DC",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "E6F6F9",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/924072601487597568/8CkUtGuq_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/924072601487597568/8CkUtGuq_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/15638216/1509151053",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sun Jan 07 23:07:26 +0000 2018",
+    "id": 950141860307263500,
+    "id_str": "950141860307263489",
+    "text": "@serpentstail @FitzcarraldoEds @commapress @andothertweets @GrantaBooks @Carcanet @Influxpress @4thEstateBooks… https://t.co/tRSEE2P77Z",
+    "display_text_range": [
+      117,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 950140878785536000,
+    "in_reply_to_status_id_str": "950140878785536000",
+    "in_reply_to_user_id": 26727937,
+    "in_reply_to_user_id_str": "26727937",
+    "in_reply_to_screen_name": "LeeRourke",
+    "user": {
+      "id": 26727937,
+      "id_str": "26727937",
+      "name": "Lee Rourke",
+      "screen_name": "LeeRourke",
+      "location": "Leigh-on-Sea",
+      "url": "http://www.watsonlittle.com/client/lee-rourke/",
+      "description": "Writer of books: THE CANAL || VULGAR THINGS || VARROA DESTRUCTOR || EVERYDAY. Mancunian: #mufc 🔴⚪⚫ Agent: @Donaldwin_",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 2904,
+      "friends_count": 1033,
+      "listed_count": 94,
+      "favourites_count": 14584,
+      "statuses_count": 33988,
+      "created_at": "Thu Mar 26 11:25:20 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/93934694/The_canal.jpg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/93934694/The_canal.jpg",
+      "profile_background_tile": true,
+      "profile_link_color": "2FC2EF",
+      "profile_sidebar_border_color": "181A1E",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/590950057517703170/Her3CQeH_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/590950057517703170/Her3CQeH_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/26727937/1390556080",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "@serpentstail @FitzcarraldoEds @commapress @andothertweets @GrantaBooks @Carcanet @Influxpress @4thEstateBooks @Ofmooseandmen @DeadInkBooks @DodoInk @FleetReads @FaberBooks @saltpublishing @nyrbclassics @LesFugitives My books of 2017 (Heidi's not in photo as my wife is reading and is in her office and Gary's I've left in bloody Manchester!): https://t.co/2qmA3zN3Px",
+      "display_text_range": [
+        217,
+        343
+      ],
+      "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "screen_name": "serpentstail",
+            "name": "Serpent's Tail",
+            "id": 16014148,
+            "id_str": "16014148",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "FitzcarraldoEds",
+            "name": "FitzcarraldoEditions",
+            "id": 2482477633,
+            "id_str": "2482477633",
+            "indices": [
+              14,
+              30
+            ]
+          },
+          {
+            "screen_name": "commapress",
+            "name": "Comma Press",
+            "id": 30203415,
+            "id_str": "30203415",
+            "indices": [
+              31,
+              42
+            ]
+          },
+          {
+            "screen_name": "andothertweets",
+            "name": "And Other Tweets",
+            "id": 128300983,
+            "id_str": "128300983",
+            "indices": [
+              43,
+              58
+            ]
+          },
+          {
+            "screen_name": "GrantaBooks",
+            "name": "Granta Books",
+            "id": 199327139,
+            "id_str": "199327139",
+            "indices": [
+              59,
+              71
+            ]
+          },
+          {
+            "screen_name": "Carcanet",
+            "name": "Carcanet Press",
+            "id": 17680738,
+            "id_str": "17680738",
+            "indices": [
+              72,
+              81
+            ]
+          },
+          {
+            "screen_name": "Influxpress",
+            "name": "Influx Press",
+            "id": 275007500,
+            "id_str": "275007500",
+            "indices": [
+              82,
+              94
+            ]
+          },
+          {
+            "screen_name": "4thEstateBooks",
+            "name": "4th Estate Books",
+            "id": 160958570,
+            "id_str": "160958570",
+            "indices": [
+              95,
+              110
+            ]
+          },
+          {
+            "screen_name": "Ofmooseandmen",
+            "name": "Bluemoose Books",
+            "id": 39034375,
+            "id_str": "39034375",
+            "indices": [
+              111,
+              125
+            ]
+          },
+          {
+            "screen_name": "DeadInkBooks",
+            "name": "Dead Ink",
+            "id": 356388915,
+            "id_str": "356388915",
+            "indices": [
+              126,
+              139
+            ]
+          },
+          {
+            "screen_name": "DodoInk",
+            "name": "Dodo Ink",
+            "id": 2864497289,
+            "id_str": "2864497289",
+            "indices": [
+              140,
+              148
+            ]
+          },
+          {
+            "screen_name": "FleetReads",
+            "name": "Fleet",
+            "id": 3956963357,
+            "id_str": "3956963357",
+            "indices": [
+              149,
+              160
+            ]
+          },
+          {
+            "screen_name": "FaberBooks",
+            "name": "Faber & Faber",
+            "id": 15019821,
+            "id_str": "15019821",
+            "indices": [
+              161,
+              172
+            ]
+          },
+          {
+            "screen_name": "saltpublishing",
+            "name": "Salt",
+            "id": 14884180,
+            "id_str": "14884180",
+            "indices": [
+              173,
+              188
+            ]
+          },
+          {
+            "screen_name": "nyrbclassics",
+            "name": "NYRB Classics",
+            "id": 16932573,
+            "id_str": "16932573",
+            "indices": [
+              189,
+              202
+            ]
+          },
+          {
+            "screen_name": "LesFugitives",
+            "name": "Les Fugitives",
+            "id": 2599662318,
+            "id_str": "2599662318",
+            "indices": [
+              203,
+              216
+            ]
+          }
+        ],
+        "symbols": [],
+        "media": [
+          {
+            "id": 950141831840518100,
+            "id_str": "950141831840518144",
+            "indices": [
+              344,
+              367
+            ],
+            "media_url": "http://pbs.twimg.com/media/DS-U9kUX0AAflZs.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DS-U9kUX0AAflZs.jpg",
+            "url": "https://t.co/2qmA3zN3Px",
+            "display_url": "pic.twitter.com/2qmA3zN3Px",
+            "expanded_url": "https://twitter.com/LeeRourke/status/950141860307263489/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1152,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 950141831840518100,
+            "id_str": "950141831840518144",
+            "indices": [
+              344,
+              367
+            ],
+            "media_url": "http://pbs.twimg.com/media/DS-U9kUX0AAflZs.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DS-U9kUX0AAflZs.jpg",
+            "url": "https://t.co/2qmA3zN3Px",
+            "display_url": "pic.twitter.com/2qmA3zN3Px",
+            "expanded_url": "https://twitter.com/LeeRourke/status/950141860307263489/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1152,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "quote_count": 0,
+    "reply_count": 4,
+    "retweet_count": 1,
+    "favorite_count": 9,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/tRSEE2P77Z",
+          "expanded_url": "https://twitter.com/i/web/status/950141860307263489",
+          "display_url": "twitter.com/i/web/status/9…",
+          "indices": [
+            112,
+            135
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "serpentstail",
+          "name": "Serpent's Tail",
+          "id": 16014148,
+          "id_str": "16014148",
+          "indices": [
+            0,
+            13
+          ]
+        },
+        {
+          "screen_name": "FitzcarraldoEds",
+          "name": "FitzcarraldoEditions",
+          "id": 2482477633,
+          "id_str": "2482477633",
+          "indices": [
+            14,
+            30
+          ]
+        },
+        {
+          "screen_name": "commapress",
+          "name": "Comma Press",
+          "id": 30203415,
+          "id_str": "30203415",
+          "indices": [
+            31,
+            42
+          ]
+        },
+        {
+          "screen_name": "andothertweets",
+          "name": "And Other Tweets",
+          "id": 128300983,
+          "id_str": "128300983",
+          "indices": [
+            43,
+            58
+          ]
+        },
+        {
+          "screen_name": "GrantaBooks",
+          "name": "Granta Books",
+          "id": 199327139,
+          "id_str": "199327139",
+          "indices": [
+            59,
+            71
+          ]
+        },
+        {
+          "screen_name": "Carcanet",
+          "name": "Carcanet Press",
+          "id": 17680738,
+          "id_str": "17680738",
+          "indices": [
+            72,
+            81
+          ]
+        },
+        {
+          "screen_name": "Influxpress",
+          "name": "Influx Press",
+          "id": 275007500,
+          "id_str": "275007500",
+          "indices": [
+            82,
+            94
+          ]
+        },
+        {
+          "screen_name": "4thEstateBooks",
+          "name": "4th Estate Books",
+          "id": 160958570,
+          "id_str": "160958570",
+          "indices": [
+            95,
+            110
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "LeeRourke",
+        "name": "Lee Rourke",
+        "id": 26727937,
+        "id_str": "26727937",
+        "indices": [
+          3,
+          13
+        ]
+      },
+      {
+        "screen_name": "serpentstail",
+        "name": "Serpent's Tail",
+        "id": 16014148,
+        "id_str": "16014148",
+        "indices": [
+          15,
+          28
+        ]
+      },
+      {
+        "screen_name": "FitzcarraldoEds",
+        "name": "FitzcarraldoEditions",
+        "id": 2482477633,
+        "id_str": "2482477633",
+        "indices": [
+          29,
+          45
+        ]
+      },
+      {
+        "screen_name": "commapress",
+        "name": "Comma Press",
+        "id": 30203415,
+        "id_str": "30203415",
+        "indices": [
+          46,
+          57
+        ]
+      },
+      {
+        "screen_name": "andothertweets",
+        "name": "And Other Tweets",
+        "id": 128300983,
+        "id_str": "128300983",
+        "indices": [
+          58,
+          73
+        ]
+      },
+      {
+        "screen_name": "GrantaBooks",
+        "name": "Granta Books",
+        "id": 199327139,
+        "id_str": "199327139",
+        "indices": [
+          74,
+          86
+        ]
+      },
+      {
+        "screen_name": "Carcanet",
+        "name": "Carcanet Press",
+        "id": 17680738,
+        "id_str": "17680738",
+        "indices": [
+          87,
+          96
+        ]
+      },
+      {
+        "screen_name": "Influxpress",
+        "name": "Influx Press",
+        "id": 275007500,
+        "id_str": "275007500",
+        "indices": [
+          97,
+          109
+        ]
+      },
+      {
+        "screen_name": "4thEstateBooks",
+        "name": "4th Estate Books",
+        "id": 160958570,
+        "id_str": "160958570",
+        "indices": [
+          110,
+          125
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1515380210744"
+}
